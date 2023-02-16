@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/rstudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
   <img src="https://img.shields.io/badge/dbeaver-B2EBF4?style=for-the-badge&logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   
   <br>
   <br>
