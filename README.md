@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apache%20tomcat&logoColor=white">
   <img src="https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apache%20jmeter&logoColor=white">
-  <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   
   <br>
   <br>
