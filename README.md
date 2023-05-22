@@ -38,6 +38,13 @@
   
   <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white">
+  
+  <br>
+  <br>
+  
+  <h1>Studying</h1>
+  
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 </div>
 
