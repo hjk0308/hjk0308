@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/jsp-007396?style=for-the-badge&logo=jsp&logoColor=white">
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white">
   <img src="https://img.shields.io/badge/unreal%20engine-0E1128?style=for-the-badge&logo=unreal%20engine&logoColor=white">
