@@ -54,6 +54,9 @@
 <br>
 
 <div align=center>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjk0308)](https://solved.ac/hjk0308)
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hjk0308&theme=react)](https://git.io/streak-stats)
+  
 </div>
