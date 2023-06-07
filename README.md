@@ -54,4 +54,4 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjk0308)](https://solved.ac/hjk0308)
-![hjk0308's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjk0308&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hjk0308&theme=react)](https://git.io/streak-stats)
