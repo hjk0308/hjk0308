@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apache%20jmeter&logoColor=white">
   <img src="https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white">
   <img src="https://img.shields.io/badge/erdcloud-8F8AFF?style=for-the-badge&logo=erdcloud&logoColor=white">
+  <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   
   <br>
   <br>
