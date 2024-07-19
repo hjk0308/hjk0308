@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/jsp-007396?style=for-the-badge&logo=jsp&logoColor=white">
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white">
   <img src="https://img.shields.io/badge/unreal%20engine-0E1128?style=for-the-badge&logo=unreal%20engine&logoColor=white">
   
@@ -25,7 +24,7 @@
   <img src="https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipse%20ide&logoColor=white">
-  <img src="https://img.shields.io/badge/rstudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/rstudio%20ide-75AADB?style=for-the-badge&logo=rstudio%20ide&logoColor=white">
   <img src="https://img.shields.io/badge/dbeaver-B2EBF4?style=for-the-badge&logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
@@ -33,6 +32,7 @@
   <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apache%20tomcat&logoColor=white">
   <img src="https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apache%20jmeter&logoColor=white">
   <img src="https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white">
+  <img src="https://img.shields.io/badge/erdcloud-8F8AFF?style=for-the-badge&logo=erdcloud&logoColor=white">
   
   <br>
   <br>
